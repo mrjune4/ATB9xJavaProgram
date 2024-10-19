@@ -22,7 +22,7 @@ public class Lab053 {
             case 10 -> System.out.println("As per your input the month is - October");
             case 11 -> System.out.println("As per your input the month is - November");
             case 12 -> System.out.println("As per your input the month is - December");
-            default -> System.out.println(" Enter the number between 1-12 to get the month name");
+            default -> System.out.println(" Enter the number between 1-12 to get the month name.");
 
         }
     }

@@ -18,7 +18,7 @@ public class Lab052 {
             case '*' -> System.out.println(Num1*Num2);
             case '/' -> System.out.println(Num1/Num2);
             case '%' -> System.out.println(Num1%Num2);
-            default -> System.out.println("Incorrect input");
+            default -> System.out.println("Incorrect input, please enter the valid input");
         }
     }
 }
