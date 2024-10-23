@@ -28,7 +28,8 @@ public class Lab054 {
         }
         //Month Difference Calculation
         if (dobMonth>todayMonth){
-            System.out.println("The day difference is: " + (dobMonth-todayMonth)+" Month/s");
+
+                         System.out.println("The day difference is: " + (dobMonth-todayMonth)+" Month/s");
         } else if (dobMonth<todayMonth) {
             System.out.println("The day difference is: " +(todayMonth-dobMonth)+" Month/s");
 
